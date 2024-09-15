@@ -1,0 +1,1 @@
+This project focuses on implementing cloud data encryption and secure key management to protect sensitive data in a cloud environment. By ensuring strong encryption practices and privacy measures, it guarantees that user data is stored and transmitted safely while maintaining compliance with data protection standards.
